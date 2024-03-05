@@ -19,7 +19,8 @@ public class Main {
     };
     private static boolean isRunning = true;
 
-    /* Added some new code to the Authentication Solution */
+    /* Added some new code to the Authentication Solution
+    * added code to implement the authentication component */
 
     /**
      * The entry point of the application.
