@@ -19,6 +19,8 @@ public class Main {
     };
     private static boolean isRunning = true;
 
+    /* Added some new code to the Authentication Solution */
+
     /**
      * The entry point of the application.
      * @param args The command-line arguments.
